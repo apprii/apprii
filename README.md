@@ -1,5 +1,6 @@
 <div align="center">
   <pre style="background-color: #0d1117; color: #c9d1d9; padding: 16px; border-radius: 10px; font-family: 'JetBrains Mono', monospace; font-size: 14px; border: 1px solid #30363d;">
+    ```
                                            zruzrg@arch
 
                    ▄                       ┌──────────────────────────────────────────────────────┐
@@ -22,7 +23,7 @@
   ▟███▀▘                       ▝▀███▙
  ▟▛▀                               ▀▜▙
 
-
+,,,
     
 ![Profile Views](https://komarev.com/ghpvc/?username=apprii&label=PROFILE+VIEWS&color=0e75b6&style=flat)
 
